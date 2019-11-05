@@ -1,0 +1,7 @@
+C:\Users\fahim\Desktop\Source\RestrictedProcessCore\obj\Debug\netcoreapp3.0\RestrictedProcessCore.AssemblyInfoInputs.cache
+C:\Users\fahim\Desktop\Source\RestrictedProcessCore\obj\Debug\netcoreapp3.0\RestrictedProcessCore.AssemblyInfo.cs
+C:\Users\fahim\Desktop\Source\RestrictedProcessCore\bin\Debug\netcoreapp3.0\RestrictedProcessCore.deps.json
+C:\Users\fahim\Desktop\Source\RestrictedProcessCore\bin\Debug\netcoreapp3.0\RestrictedProcessCore.dll
+C:\Users\fahim\Desktop\Source\RestrictedProcessCore\bin\Debug\netcoreapp3.0\RestrictedProcessCore.pdb
+C:\Users\fahim\Desktop\Source\RestrictedProcessCore\obj\Debug\netcoreapp3.0\RestrictedProcessCore.dll
+C:\Users\fahim\Desktop\Source\RestrictedProcessCore\obj\Debug\netcoreapp3.0\RestrictedProcessCore.pdb
